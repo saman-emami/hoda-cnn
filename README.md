@@ -62,4 +62,6 @@ Creates a compressed .npz file containing:
 
 
 ## Acknowledgments
+This project uses the Hoda Farsi Digit Dataset. For more information checkout : <http://farsiocr.ir/مجموعه-داده/مجموعه-ارقام-دستنویس-هدی>
+
 The logic for the self-contained `.cdb` data reader, found in the `cdb_processor.py` file, is inspired by the [**HodaDatasetReader**](https://github.com/amir-saniyan/HodaDatasetReader) project on GitHub.
